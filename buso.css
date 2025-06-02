@@ -47,6 +47,10 @@ q {
 
 li {
 	margin-bottom: 25px;
+	list-style: none;
+  	padding-left: 1.5em;
+	  background-image: url('jel.png'); /* Kép beállítása */
+	  background-repeat: no-repeat;
 }
 
 footer{
