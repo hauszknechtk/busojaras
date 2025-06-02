@@ -66,6 +66,10 @@ a {
 	text-decoration: none;
 }
 
+img {
+	min-width: 300px;
+}
+
 @media screen and (max-width:600px) {
   .balra, .jobbra {
 	float: none;
